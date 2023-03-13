@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="Maven: org.mongodb:mongodb-driver-core:4.0.5">
+    <archive path="/home/alex/.m2/repository/org/mongodb/mongodb-driver-core/4.0.5/mongodb-driver-core-4.0.5.jar" />
+  </library>
+  <library name="Maven: org.mongodb:bson:4.0.5">
+    <archive path="/home/alex/.m2/repository/org/mongodb/bson/4.0.5/bson-4.0.5.jar" />
+  </library>
+  <library name="Maven: org.mongodb:mongodb-driver-sync:4.0.5">
+    <archive path="/home/alex/.m2/repository/org/mongodb/mongodb-driver-sync/4.0.5/mongodb-driver-sync-4.0.5.jar" />
+  </library>
+</eclipse-userlibraries>
+
